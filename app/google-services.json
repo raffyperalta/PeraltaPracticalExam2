@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "149998747340",
+    "firebase_url": "https://practicalexam-b6825.firebaseio.com",
+    "project_id": "practicalexam-b6825",
+    "storage_bucket": "practicalexam-b6825.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149998747340:android:67c4b139d5f125db",
+        "android_client_info": {
+          "package_name": "joserafael.peralta.com.peraltapracticalexam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149998747340-3p6fughsgjm9iq1r3hm4fh96o85l1ci6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "joserafael.peralta.com.peraltapracticalexam",
+            "certificate_hash": "98734d00e4a8573313f84ef2d2b3fe538ff89d21"
+          }
+        },
+        {
+          "client_id": "149998747340-7u86m9449jchali3g6ie414tqt46a6vv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSORYzgBGccKmSZdKrr8kpan7sODKCpNo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149998747340-7u86m9449jchali3g6ie414tqt46a6vv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149998747340:android:cbadcca195d12431",
+        "android_client_info": {
+          "package_name": "joserafael.peralta.com.peraltapracticalexam2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149998747340-vtqcf44fb4vdf631tbilequthjepsa9r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "joserafael.peralta.com.peraltapracticalexam2",
+            "certificate_hash": "98734d00e4a8573313f84ef2d2b3fe538ff89d21"
+          }
+        },
+        {
+          "client_id": "149998747340-7u86m9449jchali3g6ie414tqt46a6vv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSORYzgBGccKmSZdKrr8kpan7sODKCpNo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149998747340-7u86m9449jchali3g6ie414tqt46a6vv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
